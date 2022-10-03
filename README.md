@@ -1,5 +1,5 @@
 # DH110-JAMESFALKENROTH
-for class destination
+for class demonstration
 
 ## it is fun!
 
